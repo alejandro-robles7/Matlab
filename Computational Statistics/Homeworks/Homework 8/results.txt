@@ -1,0 +1,16 @@
+
+Uniform(0,1)
+Mean of MC: 0.320369
+Variance of MC: 0.00140385
+
+
+Beta(1,1)
+Mean of MC: 0.312062
+Variance of MC: 0.00104086
+
+
+Beta(20,20)
+Mean of MC: 0.342081
+Variance of MC: 0.00104643
+
+a true = 0.3150

@@ -1,0 +1,1 @@
+[a,b,c,d] = mymoment(normrnd(0,1,1,1000));
